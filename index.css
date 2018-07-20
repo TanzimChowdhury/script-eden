@@ -1,0 +1,74 @@
+
+.navbar-toggler{
+    /*background: dark;*/
+    border: 1px solid white;
+    /*background-image: url("data:image/svg+xml;..");*/
+    /*background-color: red;*/
+    /*color: black;*/
+}
+nav{
+    background: #1b1f38 !important;
+}
+nav ul li{
+    padding-left: 20px;
+}
+nav ul a{
+    text-transform:  uppercase;
+    color: white;
+}
+nav ul li a:hover{
+	color: #3e9693 !important; 
+}
+
+.blogsection{
+background: #f3f3f3;
+
+}
+.blogsection h2{
+	text-transform: capitalize;
+	padding-bottom: 10px;
+}
+.portfolio{
+    margin-top: 25px;
+    background: #f3f3f3;
+    padding-bottom: 30px;
+}
+.portfolio h1{
+	padding: 25px 0;
+	text-align: center;
+}
+
+.portfoliosection{
+    margin: 10px 0;
+}
+.portfoliosection img{
+	width: 100%;
+}
+
+footer{
+    background: #1b1f38;
+    padding: 37px;
+    color:  white;
+}
+footer h1{
+    font-weight: 100;
+    font-size: 3em;
+}
+footer p{
+    text-transform:  uppercase;
+    padding: 25px 0;
+}
+.social{
+    /* padding-top: 15px; */
+}
+.social ul{
+}
+.social ul li{
+    list-style:  none;
+    text-decoration:  none;
+    display:  inline-block;
+    padding: 0 5px;
+}
+.social ul li a{
+    color: #3e9693;
+}
